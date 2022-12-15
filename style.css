@@ -7,13 +7,11 @@
      background: #F5F5F5;
 }
  main{
-     max-width: 1600px;
      width: 100%;
      margin: 0 auto;
      background: #fff;
 }
  .wrapper{
-     max-width: 1600px;
      width: 100%;
      padding-top: 100px;
      margin: 0 auto;
